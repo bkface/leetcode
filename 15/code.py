@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/3sum/submissions/1
+# https://leetcode.com/problems/3sum/description/
 
 class Solution(object):
     def threeSum(self, nums):
